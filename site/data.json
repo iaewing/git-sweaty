@@ -3176,6 +3176,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17820545368",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 13,
+      "name": "Cambridge",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18043773921",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6297,11 +6306,20 @@
           "distance": 2108.8,
           "elevation_gain": 11.2,
           "moving_time": 1107.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18043773921"
+          ],
+          "count": 1,
+          "distance": 2138.2,
+          "elevation_gain": 7.8,
+          "moving_time": 1171.0
         }
       }
     }
   },
-  "generated_at": "2026-04-09T16:17:28.065369+00:00",
+  "generated_at": "2026-04-10T15:53:13.771048+00:00",
   "other_bucket": "OtherSports",
   "repo": "iaewing/git-sweaty",
   "source": "strava",
