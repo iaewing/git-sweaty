@@ -4626,5 +4626,18 @@
     "start_date_local": "2026-05-05T11:53:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 3010.0,
+    "elevation_gain": 30.6,
+    "id": "18414467512",
+    "moving_time": 1617.0,
+    "name": "Cambridge",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-07T12:12:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
