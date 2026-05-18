@@ -3230,6 +3230,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18529861533",
       "year": 2026
+    },
+    {
+      "date": "2026-05-18",
+      "hour": 9,
+      "name": "Brought both kids in the Chariot",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18554917766",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6405,11 +6414,20 @@
           "distance": 4271.2,
           "elevation_gain": 5.7,
           "moving_time": 2484.0
+        },
+        "2026-05-18": {
+          "activity_ids": [
+            "18554917766"
+          ],
+          "count": 1,
+          "distance": 2452.7,
+          "elevation_gain": 11.8,
+          "moving_time": 1623.0
         }
       }
     }
   },
-  "generated_at": "2026-05-17T15:58:46.160094+00:00",
+  "generated_at": "2026-05-18T17:29:30.093836+00:00",
   "other_bucket": "OtherSports",
   "repo": "iaewing/git-sweaty",
   "source": "strava",

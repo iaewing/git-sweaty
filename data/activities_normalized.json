@@ -4665,5 +4665,18 @@
     "start_date_local": "2026-05-16T09:06:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 2452.7,
+    "elevation_gain": 11.8,
+    "id": "18554917766",
+    "moving_time": 1623.0,
+    "name": "Brought both kids in the Chariot",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-18T09:18:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
