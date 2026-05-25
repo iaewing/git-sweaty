@@ -4717,5 +4717,18 @@
     "start_date_local": "2026-05-24T10:31:25Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 6583.2,
+    "elevation_gain": 0.0,
+    "id": "18641855338",
+    "moving_time": 1208.0,
+    "name": "Ride #QZ",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-24T20:35:16Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
