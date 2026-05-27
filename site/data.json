@@ -3293,6 +3293,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18663379486",
       "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 6,
+      "name": "Ride #QZ",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18673310096",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6515,6 +6524,15 @@
           "distance": 6583.2,
           "elevation_gain": 0.0,
           "moving_time": 1208.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18673310096"
+          ],
+          "count": 1,
+          "distance": 6824.5,
+          "elevation_gain": 0.0,
+          "moving_time": 1021.0
         }
       },
       "Walk": {
@@ -6541,7 +6559,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T17:55:27.230987+00:00",
+  "generated_at": "2026-05-27T17:56:57.118384+00:00",
   "other_bucket": "OtherSports",
   "repo": "iaewing/git-sweaty",
   "source": "strava",

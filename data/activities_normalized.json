@@ -4756,5 +4756,18 @@
     "start_date_local": "2026-05-26T12:16:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 6824.5,
+    "elevation_gain": 0.0,
+    "id": "18673310096",
+    "moving_time": 1021.0,
+    "name": "Ride #QZ",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-27T06:38:04Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
