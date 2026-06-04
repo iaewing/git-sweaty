@@ -3329,6 +3329,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18758514691",
       "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 6,
+      "name": "Morning Tempo Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18782293565",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6567,6 +6576,15 @@
           "distance": 5734.0,
           "elevation_gain": 44.0,
           "moving_time": 3244.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18782293565"
+          ],
+          "count": 1,
+          "distance": 7349.0,
+          "elevation_gain": 46.0,
+          "moving_time": 3971.0
         }
       },
       "VirtualRide": {
@@ -6613,7 +6631,7 @@
       }
     }
   },
-  "generated_at": "2026-06-03T18:42:35.231356+00:00",
+  "generated_at": "2026-06-04T17:45:25.130385+00:00",
   "other_bucket": "OtherSports",
   "repo": "iaewing/git-sweaty",
   "source": "strava",

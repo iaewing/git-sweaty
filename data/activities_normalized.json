@@ -4808,5 +4808,18 @@
     "start_date_local": "2026-06-02T12:10:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 7349.0,
+    "elevation_gain": 46.0,
+    "id": "18782293565",
+    "moving_time": 3971.0,
+    "name": "Morning Tempo Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-04T06:24:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
