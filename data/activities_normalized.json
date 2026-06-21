@@ -4886,5 +4886,18 @@
     "start_date_local": "2026-06-16T06:33:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 10114.0,
+    "elevation_gain": 62.0,
+    "id": "19011405743",
+    "moving_time": 4844.0,
+    "name": "Waterloo 10Km Classic",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-21T08:32:50Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

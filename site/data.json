@@ -3383,6 +3383,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18941627810",
       "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 8,
+      "name": "Waterloo 10Km Classic",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19011405743",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6675,6 +6684,15 @@
           "distance": 3978.1,
           "elevation_gain": 32.0,
           "moving_time": 2556.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19011405743"
+          ],
+          "count": 1,
+          "distance": 10114.0,
+          "elevation_gain": 62.0,
+          "moving_time": 4844.0
         }
       },
       "VirtualRide": {
@@ -6721,7 +6739,7 @@
       }
     }
   },
-  "generated_at": "2026-06-20T16:16:36.746105+00:00",
+  "generated_at": "2026-06-21T16:44:55.863704+00:00",
   "other_bucket": "OtherSports",
   "repo": "iaewing/git-sweaty",
   "source": "strava",
